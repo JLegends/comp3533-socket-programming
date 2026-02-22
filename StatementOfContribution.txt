@@ -1,0 +1,12 @@
+COMP 3533 - Lab Assignment: Word Prefix Server
+Statement of Contribution
+
+Group Members:
+  - Jacob Breton
+
+Contributions:
+  Jacob Breton:
+    - deisned and implemented WordServer.java (TCP server, word loading, prefix matching logic)
+    - Designed and implemented WordClient.java (TCP client, user input handling, display)
+    - Test and debugging of server/client communication
+    - Documentation and code formatting
